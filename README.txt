@@ -1,1 +1,2 @@
-The Orignal Specs for CommonJS
+The Official Specs for CommonJS
+Thank you
